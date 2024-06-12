@@ -1,7 +1,8 @@
-"Kod satiri" 
+"Kod satiri"
 "Ortak calisma alani"
 
 
 
 
+"LEADERBOARD_KODLARI"
 "SCHEDULE_KODARI"
