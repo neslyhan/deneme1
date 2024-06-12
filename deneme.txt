@@ -1,2 +1,7 @@
-Kod satiri 
-Ortak calisma alani
+"Kod satiri"
+"Ortak calisma alani"
+
+
+
+
+"LEADERBOARD_KODLARI"
